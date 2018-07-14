@@ -3,7 +3,7 @@
 This is my brand new project.
 
 For adding a new repo to github, 
-* make a new reop online, 
+* make a new repo online, 
 * create a repo offline, 
 * add the online repo as origin to your offline repo
 
